@@ -384,12 +384,13 @@ input[type='checkbox'] {
 .navbar .navbar-brand {
 	padding-top: 0.125rem;
 	padding-bottom: 0.125rem;
+
 }
 
 .navbar .logo-image {
 	font-size: 40px;
 	font-family:"Concord";
-	/* font-style: oblique; */
+	text-decoration: none;
     width: 618px;
 	height: 56px;
 }
